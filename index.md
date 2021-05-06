@@ -1,6 +1,6 @@
 ## About Me
 
-I work as a postdoctoral researcher in Algorithm Theory at the University of Kiel. [Image](kimiklein.github.io/20200629_171917.jpeg)
+I work as a postdoctoral researcher in Algorithm Theory at the University of Kiel. [Image](http://kimiklein.github.io/20200629_171917.jpeg)
 You can use the [editor on GitHub](https://github.com/kimiklein/kimiklein.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
